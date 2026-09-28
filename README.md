@@ -12,8 +12,18 @@ This is a simple Python project made to calculate the marks and grade of a stude
 * Shows the grade
 
 ## Language Used
+python
 
-* Python
+## How to run 
+
+1. Install Python on your computer.
+2. Download or clone this repository.
+3. Open the project folder.
+4. Open the terminal in the project folder.
+5. Run the following command:
+6. python student_grade_calculator.py
+7. Enter the student's name and marks when the program asks for them.
+8. The program will show the total marks, percentage, and grade.
 
 ## Example
 
